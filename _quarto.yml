@@ -9,7 +9,7 @@ execute:
   freeze: auto
 
 website:
-  title: "Synthesis Skills for Early Career Researchers"
+  title: "Synthesis Skills for Early Career Researchers (2024 Version)"
   repo-url: https://github.com/lter/ssecr
   repo-actions: [issue]
   favicon: images/logo_lter.png
